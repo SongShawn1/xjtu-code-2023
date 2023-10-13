@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("Version 12");
+    printf("using ssh key");
     return 0;
 }
